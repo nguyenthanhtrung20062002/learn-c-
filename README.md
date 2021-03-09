@@ -1,1 +1,3 @@
 # learn-c-
+
+firt commit
