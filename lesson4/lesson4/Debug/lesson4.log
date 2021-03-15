@@ -1,0 +1,4 @@
+﻿  lesson4.cpp
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson4\lesson4\lesson4.cpp(75): warning C4172: returning address of local variable or temporary: mang
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson4\lesson4\lesson4.cpp(97): warning C4172: returning address of local variable or temporary: mang
+  lesson4.vcxproj -> C:\Users\DELL\Documents\GitHub\learn-c-\lesson4\Debug\lesson4.exe

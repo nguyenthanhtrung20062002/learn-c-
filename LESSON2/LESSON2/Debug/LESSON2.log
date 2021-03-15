@@ -1,0 +1,4 @@
+﻿  LESSON2.cpp
+C:\Users\DELL\Documents\GitHub\learn-c-\LESSON2\LESSON2\LESSON2.cpp(33,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\Documents\GitHub\learn-c-\LESSON2\LESSON2\LESSON2.cpp(39,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  LESSON2.vcxproj -> C:\Users\DELL\Documents\GitHub\learn-c-\LESSON2\Debug\LESSON2.exe

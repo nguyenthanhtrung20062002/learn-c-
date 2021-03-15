@@ -1,0 +1,6 @@
+﻿  lesson3.cpp
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson3\lesson3\lesson3.cpp(15,6): warning C4101: 'a': unreferenced local variable
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson3\lesson3\lesson3.cpp(26,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson3\lesson3\lesson3.cpp(46,1): error C2144: syntax error: 'void' should be preceded by ';'
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson3\lesson3\lesson3.cpp(43,5): error C2365: 'kiemtra': redefinition; previous definition was 'function'
+C:\Users\DELL\Documents\GitHub\learn-c-\lesson3\lesson3\lesson3.cpp(22): message : see declaration of 'kiemtra'
